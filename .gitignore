@@ -22,7 +22,7 @@ typings
 
 # e2e
 e2e/*.js
-e2e/*.map
+se2e/*.map
 
 #System Files
 .DS_Store
